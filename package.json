@@ -1,0 +1,13 @@
+{
+  "name": "Blockdium",
+  "version": "1.0.0",
+  "description": "A sample medium like blogpost site on web3",
+  "main": "null",
+  "repository": "git@github.com:alpha-coder13/Blockdium.git",
+  "author": "Amardeep Saha <amardeepsaha13@gmail.com>",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
